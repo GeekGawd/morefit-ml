@@ -1,0 +1,9 @@
+*/
+
+squat.tflite
+*.csv
+
+pose_labels.txt
+
+!/examples
+!/venv
