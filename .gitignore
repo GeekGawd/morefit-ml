@@ -5,5 +5,4 @@ squat.tflite
 
 pose_labels.txt
 
-!/examples
 !/venv
