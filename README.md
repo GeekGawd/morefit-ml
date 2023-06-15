@@ -28,3 +28,12 @@ Using individual data, the app generates customized diet and exercise plans. Per
 
 ### Community Forum for social interaction and query solving:
 The community forum fosters social interaction, allowing users to connect, share experiences, ask questions, and receive advice from peers and experts. It promotes a supportive environment, providing users with inspiration, motivation, and valuable information for their fitness and wellness endeavors.
+
+## Challenges we ran into
+
+- Challenges we ran into
+Tensorflow Lite has scarce resources online and it was major challenge to build a model that is fast for mobile applications. Integrating a model on React and Dekstop is easy as you don't have to look out for processing power constraints.
+
+- In scrapping the data from the web and cleaning it for proper usage for the users. The data scraping was a challenge and deploying it on replit too, as this was my first time using replit and there are not a lot of resources to deploy django on replit.
+
+- Making a all round fitness app that encompasses all the areas whether it be exercise, yoga or diet was a major challenge to do in 24 hours.
