@@ -1,0 +1,6 @@
+[submodule "hackmol-morefit"]
+	path = hackmol-morefit
+	url = https://github.com/GeekGawd/hackmol-morefit
+[submodule "Fit-Mantra-Backend"]
+	path = Fit-Mantra-Backend
+	url = https://github.com/GeekGawd/Fit-Mantra-Backend
